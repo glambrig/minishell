@@ -6,7 +6,7 @@
 #    By: glambrig <glambrig@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2023/12/04 16:32:36 by glambrig          #+#    #+#              #
-#    Updated: 2023/12/04 17:41:46 by glambrig         ###   ########.fr        #
+#    Updated: 2023/12/05 13:59:48 by glambrig         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -20,7 +20,7 @@ LDFLAGS = -L./libft -lft
 
 LFT = ./libft/*.o
 
-CFLAGS = -g -Wall -Wextra #-Werror
+CFLAGS = -g -Wall -Wextra -Werror
 
 SRC = executable.c
 
