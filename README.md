@@ -4,7 +4,7 @@
 
 ## 🚀 SYNOPSIS
 
-The `minishell` project at 42 school immerses students in the dynamic world of UNIX shell development within the C language. This comprehensive undertaking requires a deep understanding of system calls, process management, and parsing techniques.
+The `minishell` project at the 42 school immerses students in the dynamic world of UNIX shell development within the C language. This comprehensive undertaking requires a deep understanding of system calls, process management, and parsing techniques.
 
 Students are tasked with crafting a minimalistic shell that mimics the fundamental functionalities of a UNIX command-line interface.
 
@@ -12,9 +12,9 @@ Beyond basic command execution, minishell delves into advanced features such as 
 
 This project, interwoven with the philosophy of simplicity and efficiency, not only sharpens skills in system-level programming but also imparts a practical understanding of the core components that constitute a fully functional shell.
 
-## 🛠️ PROGRAM SPECIFICITIES AND CONSIDERATIONS
+## 🛠️ PROGRAM SPECIFICATIONS AND CONSIDERATIONS
 
-Start by clonning the repo :
+Start by cloning the repo :
 
 ```bash
 git clone git@github.com:maitreverge/minishell.git && cd minishell
